@@ -10,6 +10,6 @@ This app has many uses to the Mather website and many online websites, while it�
 
 The github link also has previous versions of the project so be careful, and download the one that says Mather. 
 
-The app was made by an MIT app inventor and as such it doesn’t have any comments as the program doesn’t really let people program comments into it.  The program is very similar to many app builders as it lets the user drag and drop elements which is really good for people to see what they're making.  There is a ZIP for the source code if needed, and an APK.  There are however labels for all the elements of the program, and the aia file if you want to use it in your own MIT app inventor, you can.  
+The app was made by an MIT app inventor and as such it doesn’t have any comments as the program doesn’t really let people program comments into it.  The program is very similar to many app builders as it lets the user drag and drop elements which is really good for people to see what they're making.  There is a ZIP for the source code if needed, and an APK.  There are however labels for all the elements of the program, and the aia file if you want to use it in your own MIT app inventor, you can.  There's also a folder of assets from the mather website and also stock pictures.
 
 
