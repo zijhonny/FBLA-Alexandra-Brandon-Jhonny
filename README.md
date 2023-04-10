@@ -1,6 +1,6 @@
 # FBLA-Alexandra-Brandon-Jhonny-Mather-App
 
-The app was created to help students, parents, and teachers to share their favorite moments, see recent events, explore different clubs, and send abscess.  The app in general is extremely easy to use, mainly because all the buttons have labels, and there’s labels for everything for the user not to be lost.  There’s a github and bug report function at the home screen for 
+The app was created to help students, parents, and teachers to share their favorite moments, see recent events, explore different clubs, and send abscess.  The app in general is extremely easy to use, mainly because all the buttons have labels, and there’s labels for everything for the user not to be lost.  There’s a github and bug report function at the home screen for fixes.
 
 Remember to be respectful when sending in forms for absences, pictures, and bug reports, and not just spam them.  Send school appropriate material, and please be on topic for the forms.
 
