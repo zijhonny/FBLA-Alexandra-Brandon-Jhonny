@@ -12,4 +12,4 @@ The github link also has previous versions of the project so be careful, and dow
 
 The app was made by an MIT app inventor and as such it doesn’t have any comments as the program doesn’t really let people program comments into it.  The program is very similar to many app builders as it lets the user drag and drop elements which is really good for people to see what they're making.  There is a ZIP for the source code if needed, and an APK.  There are however labels for all the elements of the program, and the aia file if you want to use it in your own MIT app inventor, you can.  There's also a folder of assets from the mather website and also stock pictures.
 
-
+Documentation here -----------------------> https://docs.google.com/document/d/1K6gBr-LlMrevPWVZ1H4m-r5SKdXlEzlJhPPXz0HYw9U/edit?usp=sharing
